@@ -1,0 +1,15 @@
+#descripcion {
+    margin: auto;
+    border: 3px solid #73AD21;
+    padding: 10px;
+}
+.container{
+    background-color: #0c93ec;
+    width: 300px;
+    padding-left:  50px;
+    padding-right: 50px;
+    margin-left:   30px;
+    margin-right:  30px;
+    border: 3px solid #73AD21;
+  
+}
